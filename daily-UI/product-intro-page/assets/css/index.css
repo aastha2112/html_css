@@ -51,6 +51,12 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.active_btn {
+  background-color: #00c0a6;
+  color: white;
+  border: none;
+}
+
 .search {
   border-radius: 16px;
   background-color: rgba(102, 102, 102, 0.1);
